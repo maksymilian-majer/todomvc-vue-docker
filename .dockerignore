@@ -1,0 +1,7 @@
+# ignore everything in todomvc
+todomvc 
+# whitelist vue example
+!todomvc/examples/vue 
+.git
+# Always exclude node_modules folders
+**/node_modules 
